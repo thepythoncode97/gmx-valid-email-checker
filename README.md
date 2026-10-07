@@ -1,6 +1,6 @@
 # Gmx Valid Email Checker
 
-![Gmx Valid Email Checker](https://raw.githubusercontent.com/alexrony21/gmx-email-validator/refs/heads/main/gmx-valid-email-checker.png)
+![Gmx Valid Email Checker](https://raw.githubusercontent.com/alexrony21/gmx-email-validator/refs/heads/main/gmx-valid-email-checker-github.png)
 
 
 # Features
